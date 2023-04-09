@@ -36,7 +36,7 @@ const Form = () => {
             </form>
             <form className="form-2 p-16 rounded-lg bg-black w-full md:w-1/2">
             
-            <h1 className='font-heading text-white text-2xl mb-[8%]'>General <br /> Information</h1>
+            <h1 className='font-heading text-white text-2xl mb-[8%]'>General <br /> Informations</h1>
                 <select name="title" className='border-b outline-none py-2 border-gray-300 bg-transparent text-white  mb-[8%]'>
                     <option value="title" className='bg-blue-600 mx-2'>Title</option>
                     <option value="businessMan" className='bg-blue-600 m-2'>Businessman</option>
